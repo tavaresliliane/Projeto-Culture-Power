@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.0"
+    "mongodb": "^6.3.0",
+    "typescript": "^5.3.3"
   },
   "name": "projeto-culture-power",
   "version": "1.0.0",
   "description": "O Culture Power é uma aplicação de gamificação de uma empresa \"Exemplo\".",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

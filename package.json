@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "name": "projeto-culture-power",
+  "version": "1.0.0",
+  "description": "O Culture Power é uma aplicação de gamificação de uma empresa \"Exemplo\".",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tavaresliliane/Projeto-Culture-Power.git"
+  },
+  "author": "Liliane Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tavaresliliane/Projeto-Culture-Power/issues"
+  },
+  "homepage": "https://github.com/tavaresliliane/Projeto-Culture-Power#readme"
+}
